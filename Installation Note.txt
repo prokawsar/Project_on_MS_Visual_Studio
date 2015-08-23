@@ -5,21 +5,13 @@ Installation note for Bespoke Gyms
 
 1. First go to setupBG folder
 2. Then go to Debug folder
-3. Then Click the setup.exe file and run the setup file
+3. Then Click the BespokeGym.exe file and run the setup file
 4. Follow the onscreen installation instruction.
 5. After finish install you will see a shortcut on your desktop named Bespoke Gyms.
 6. Double CLick on the Bespoke Gyms software icon or run. 
 
- Enjoy Your Software
-
-
-System  Requirements for Delectable Delicacies
+ Enjoy The Software
 ______________________________________________
 ___________________________________________________
-1. Microsoft Windows,Microsoft® Windows® 7, Windows® 8 and Windows® 8.1 Professional operating system
-2. 1 GB of RAM 
-3. 100MB of free disk space for install
-4. .Net Framework
-5. Compatible mouse
-6. Compatible keyboard
+
 
