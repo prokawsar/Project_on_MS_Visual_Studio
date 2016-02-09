@@ -2,7 +2,7 @@
 
 For test, Run frmGym.vb on MS Visual Studio.
 
-You can install it on you machine by opening the BespokeGyms.msi file in debug folder.
+You can install it on your machine by opening the BespokeGyms.msi file in debug folder.
 
 
 
